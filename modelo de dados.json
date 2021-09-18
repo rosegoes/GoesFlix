@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1631984175685,
+        "nome": "Heartland",
+        "link": "https://www.netflix.com/browse",
+        "capa": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/wAvyIPe0hh3u3lQhmp67vBgMCXT.jpg"
+    },
+    {
+        "id": 1631984190141,
+        "nome": "Teen Wolf",
+        "link": "https://www.netflix.com/browse",
+        "capa": "https://pbs.twimg.com/media/DTx6fHnXUAAwrYq.jpg"
+    },
+    {
+        "id": 1631984198756,
+        "nome": "Piratas do Vale do Silicio",
+        "link": "https://terminalroot.com.br/2019/08/assista-agora-o-filme-piratas-do-vale-do-silicio.html",
+        "capa": "https://videoperola.vteximg.com.br/arquivos/ids/155960-1000-1000/-p-i-piratas_do_vale_do_sil_cio_1.jpg"
+    }
+]

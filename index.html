@@ -1,0 +1,33 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="index.css">
+    <title>GoesFlix</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="page-title">
+            GoesFlix
+        </h1>
+        <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-aluraflix.svg" class="page-logo"
+            alt="">
+        <p class="page-subtitle">
+            Adicione aqui seus filmes e séries favoritos
+        </p>
+        <div class="form-wrapper">
+            <input type="text" id="nomeFilme" name="nomeFilme" placeholder="Nome">
+            <input type="text" id="linkFilme" name="linkFilme" placeholder="Link">
+            <input type="text" id="capaFilme" name="capaFilme" placeholder="Capa">
+            <button class="btn-adicionar" onClick="adicionarFilme()">Adicionar</button>
+        </div>
+    </div>
+    <div id="listaFilmes"></div>
+    <a href="https://alura.com.br/" target="_blank">
+        <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="alurateste" class="alura-logo">
+    </a>
+    <script type="text/javascript" src="index.js"></script>
+</body>
+
+</html>
